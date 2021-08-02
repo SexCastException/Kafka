@@ -1,4 +1,4 @@
-package com.huazai.kafka.example;
+package com.huazai.kafka.example.producer;
 
 import org.apache.kafka.clients.producer.*;
 

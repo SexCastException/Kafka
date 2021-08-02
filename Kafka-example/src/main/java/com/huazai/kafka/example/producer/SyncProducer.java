@@ -1,9 +1,8 @@
-package com.huazai.kafka.example;
+package com.huazai.kafka.example.producer;
 
 import org.apache.kafka.clients.producer.*;
 
 import java.util.Properties;
-import java.util.concurrent.CountDownLatch;
 
 /**
  * @author pyh
